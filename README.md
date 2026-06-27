@@ -5,7 +5,7 @@
 <p align="center">$\color{#f6d089}{\textsf{ ⋆˚࿔⟡ }}$  $\color{#c883bc}{\textsf{𝒽𝒶𝓇𝒹 𝓉𝑜 𝒷𝑒 𝓉𝑜𝓊𝑔𝒽, 𝓈𝑜𝒻𝓉 𝓉𝑜 𝒷𝑒 𝓉𝑒𝓃𝒹𝑒𝓇}}$   $\color{#f6d089}{\textsf{୭ ˚. ᵎ}}$</p>
 <div align=center> 
   
-  [straw by will <3](https://girlwithsuperpowers.straw.page) 
+  [straw](https://girlwithsuperpowers.straw.page) from [will](https://github.com/castlebyers)
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
